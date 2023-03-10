@@ -30,8 +30,8 @@ class Result(SQLModel, table=True):
     username: str | None
     course_id: str
     grade: Optional[float]
-    certificat_eligible: str
-    certificat_delivered: str
+    certificate_eligible: str
+    certificate_delivered: str
 
 
 # Liste des résultats
@@ -64,8 +64,8 @@ for doc in documents:
                 username=username,
                 course_id=course_name,
                 grade=grade,
-                certificat_eligible=cert_eligible,
-                certificat_delivered=cert_delivered
+                certificate_eligible=cert_eligible,
+                certificate_delivered=cert_delivered
             )
 
             # Ajout du résultat à la liste

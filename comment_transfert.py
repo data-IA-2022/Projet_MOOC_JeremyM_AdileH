@@ -35,7 +35,7 @@ class Comment(SQLModel, table=True):
     type: str
     depth: int = Column(Integer)
     body: str = Field(max_length=50000)
-    created_at: str
+    created_at: date
 
 
 # Parcourez les documents et créez des instances de modèles SQLModel

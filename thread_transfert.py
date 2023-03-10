@@ -34,7 +34,7 @@ class Thread(SQLModel, table=True):
     body: str = Field(max_length=50000)
     type: str
     comment_count: int
-    created_at: str
+    created_at: date
 
 
 # Parcourez les documents et créez des instances de modèles SQLModel

@@ -13,57 +13,51 @@ port = config['database']['port']
 user_connect = config['database']['user']
 password = config['database']['password']
 db_name = config['database']['db_name']
-# Créez une connexion à la base de données SQL et utilisez les instances de modèle pour insérer des données
-# Créez une instance de moteur de base de données en utilisant le pilote MySQL
 
-# Créez une connexion à la base de données MongoDB
-client = pymongo.MongoClient(
-    "mongodb://localhost:27017/",  connectTimeoutMS=1800000)
+# Create a connection to the MongoDB database
+client = pymongo.MongoClient("mongodb://localhost:27017/", connectTimeoutMS=1800000)
 db = client["mooc"]
 collection = db["user_filtered"]
 documents = collection.find({})
 
-
 class User(SQLModel, table=True):
-    id: Optional[int] = Field(default=None, primary_key=True)
-    username: str
-    city: str
-    country: str
-    gender: str
-    year_of_birth: date
+    __tablename__ = "user"
 
+    username: str = Field(primary_key=True)
+    city: Optional[str] = Field(default=None)
+    country: Optional[str] = Field(default=None)
+    gender: Optional[str] = Field(default=None)
+    year_of_birth: Optional[date] = Field(default=None)
 
-# Parcourez les documents et créez des instances de modèles SQLModel
-users = []
+# Create a connection to the MySQL database using the SQLModel engine
+engine = create_engine(f"mysql+pymysql://{user_connect}:{password}@{host}:{port}/{db_name}", echo=True, pool_pre_ping=True)
 
-for document in documents:
-
-    # Créer une instance de modèle SQLModel pour chaque document de thread
-    user = User(
-        username=str(document["username"]),
-        city=document["city"],
-        country=document["country"],
-        gender=document["gender"],
-        year_of_birth=document["year_of_birth"],
-
-    )
-
-    # Ajouter l'instance de modèle à la liste de threads
-    users.append(user)
-
-
-engine = create_engine(
-    f"mysql+pymysql://{user_connect}:{password}@{host}:{port}/{db_name}", echo=True)
-# Créez une instance de métadonnées SQLModel
+# Create an instance of the SQLModel metadata
 metadata = SQLModel.metadata
-
-
 metadata.create_all(engine)
 
-# Utilisez la session pour interagir avec la base de données
-with Session(engine) as session:
-    # Insérez les threads dans la base de données
-    session.add_all(users)
+# Create an empty list to hold the users to be added to the database
+users = []
 
-    # Validez les transactions et confirmez les modifications dans la base de données
+# Iterate over the documents in the MongoDB collection
+for document in documents:
+    # Check if the user already exists in the MySQL database
+    with Session(engine) as session:
+        existing_user = session.get(User, document['username'])
+        if existing_user:
+            continue # skip adding the user if it already exists
+    # Create a new User instance from the MongoDB document
+    user = User(
+        username=str(document["username"]),
+        city=document.get("city"),
+        country=document.get("country"),
+        gender=document.get("gender"),
+        year_of_birth=document.get("year_of_birth"),
+    )
+    # Add the User instance to the list of users to be added to the database
+    users.append(user)
+
+# Use a session to interact with the database and insert the users
+with Session(engine) as session:
+    session.add_all(users)
     session.commit()
