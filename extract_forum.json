@@ -1,0 +1,468 @@
+[
+    {
+        "_id": "52ef4b71ab137b00720007d4",
+        "content": {
+            "username": "qb",
+            "type": "thread",
+            "updated_at": "2014-02-03T07:55:29Z",
+            "children": [
+                {
+                    "username": "MountacirAmar",
+                    "thread_id": "52ef4b71ab137b00720007d4",
+                    "created_at": "2014-02-03T09:20:32Z",
+                    "id": "52ef5f60919cec5e32000962",
+                    "body": "jeune ing\u00e9nieur occupant le post d'un Project manager dans une multinational je me suis confront\u00e9 \u00e0 des situations  o\u00f9 ma connaissance th\u00e9orique ne m'a pas servi en question de management, je me suis fait face \u00e0 un double  objectif ! \u00eatre leader ou \u00eatre manager. ",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "140372",
+                    "children": []
+                }
+            ],
+            "user_id": "281811",
+            "comments_count": 1,
+            "body": "Dans le cadre de mes \u00e9tudes d'ing\u00e9nieur j'ai \u00e9t\u00e9 ammen\u00e9 \u00e0 aborder la question du management de mani\u00e8re th\u00e9orique. En poste depuis un peu plus d'un an maintenant, je souhaitais mettre \u00e0 jour mes connaissances, les confronter aux situations professionnelles que j'ai rencontr\u00e9. J'aimerais au terme de ce MOOC disposer de comp\u00e9tences manageriales en compl\u00e9ment de mon exp\u00e9rience technique.\n\n",
+            "id": "52ef4b71ab137b00720007d4",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef4d79b4907d2e23000996",
+        "content": {
+            "username": "fidji",
+            "type": "thread",
+            "updated_at": "2014-02-03T08:04:09Z",
+            "children": [
+                {
+                    "username": "ElenaThomas",
+                    "thread_id": "52ef4d79b4907d2e23000996",
+                    "created_at": "2014-02-03T10:46:44Z",
+                    "id": "52ef73945c4baf9e610008a8",
+                    "body": "Bonjour, fondatrice du l\u2019Institut Europ\u00e9en pour la reconversion professionnelle des femmes, cr\u00e9e en 2013 \u00e0 Paris, premier r\u00e9seau de femmes \u00e0 envisager la reconversion professionnelle pour des raisons aussi diverses que personnelles.\nMon objectif est de est de renverser la probl\u00e9matique traditionnelle de l\u2019\u00e9valuation afin que chacun puisse s\u2019\u00e9valuer et prononcer une appr\u00e9ciation sur ce qu\u2019il est, son savoir \u2013 \u00eatre, savoir - faire. \n",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "264453",
+                    "children": [
+                        {
+                            "username": "BEJA",
+                            "thread_id": "52ef4d79b4907d2e23000996",
+                            "created_at": "2014-02-03T14:12:05Z",
+                            "id": "52efa3b5cfc81d7e410009a3",
+                            "body": "R\u00e9partir les taches, former ses collaborateurs, donner du sens aux actions demand\u00e9es mais aussi \u00eatre \u00e0 l\u2019\u00e9coute, \u00eatre clair et pr\u00e9cis, \u00eatre juste dans sa relation avec ses collaborateurs pour leur apporter la reconnaissance qui les fera progresser ou encore d\u00e9velopper l\u2019entraide plut\u00f4t que de favoriser la comp\u00e9tition au sein de l\u2019\u00e9quipe.",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "134144",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "username": "ElenaThomas",
+                    "thread_id": "52ef4d79b4907d2e23000996",
+                    "created_at": "2014-02-03T10:51:29Z",
+                    "id": "52ef74b13c9f0ce003000937",
+                    "body": "Mon \u00ab \u00e9nigme \u00bb : essaye d\u2019\u00eatre ce qu\u2019il pense qu\u2019il \u00ab voudrait \u00eatre \u00bb : Il est secr\u00e9taire, consultant, agriculteur, contr\u00f4leur des imp\u00f4ts, commercial, (...) et tous voudraient \u00eatre psychologue du travail.",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "264453",
+                    "children": []
+                }
+            ],
+            "user_id": "268092",
+            "comments_count": 3,
+            "body": "Bonjour,\nje suis actuellement une formation d'assistante de dirigeant d'entreprise artisanale, il y a quelques ann\u00e9es j'ai eu l'opportunit\u00e9 d'effectuer une p\u00e9riode d'essai en tant que manager, malheureusement je n'avais pas convaincu. Je souhaiterai donc approfondir mes connaissances, qui sait je pourrai en avoir besoin plus tard.",
+            "id": "52ef4d79b4907d2e23000996",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef4f99344caaf903000158",
+        "content": {
+            "username": "ambruleaux",
+            "type": "thread",
+            "updated_at": "2014-02-03T08:13:13Z",
+            "children": [
+                {
+                    "username": "danielgv",
+                    "thread_id": "52ef4f99344caaf903000158",
+                    "created_at": "2014-02-03T15:49:06Z",
+                    "id": "52efba725c4baf9e61000928",
+                    "body": "Merci pour votre pr\u00e9sentation Ann. J\u00b4en profite pou r vous dire bonjour et utiliser votre fil pour me pr\u00e9senter moi aussi ( je suis bibliothecaire). Je m\u00b4appelle Daniel je suis Espagnol . Je travaille comme biblioth\u00e9caire et dans le domaine de la formation.\nC'est le premier MOOC  en Langue que je participe le but de cette d\u00e9marche c\u00b4est d\u00e9couvrir le monde des Manager ( un sujet que j\u00b4ignore)\nMerci \u00e0 tous. Au plaisir d\u00b4\u00e9changer et partager les prochaines semaines.\nDaniel Gonz\u00e1lez\n",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "41785",
+                    "children": []
+                }
+            ],
+            "user_id": "149732",
+            "comments_count": 1,
+            "body": "Bonjour \u00e0 tous (et je crois que nous sommes nombreux de par le monde)\n\nArchiviste de formation, j'enseigne mon m\u00e9tier depuis 14 ans dans une universit\u00e9 fran\u00e7aise. C'est le premier MOOC que je suis et ma motivation est triple :\n\n - d\u00e9couvrir ce qu'est un MOOC, par curiosit\u00e9, peut-\u00eatre aussi pour me lancer dans la conception moi-m\u00eame. Je suis tr\u00e8s impliqu\u00e9e dans les TICE depuis de nombreuses ann\u00e9es et je me suis inscrite parall\u00e8lement au Certificat Informatique et Internet, niveau 2 Enseignants.\n - d\u00e9velopper mes connaissances en management et leadership pour aider mes \u00e9tudiants \u00e0 se positionner comme futurs cadres\n - perfectionner mes connaissances et mes comp\u00e9tences en management en vue de reprendre un poste de direction\n\nPour le moment, ce que je vois me semble remarquable. Donc f\u00e9licitations aux concepteurs.\nAu plaisir d'\u00e9changer dans les prochaines semaines\n\nAnne-Marie Bruleaux\n\n",
+            "id": "52ef4f99344caaf903000158",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef50b5cfc81d7e4100090e",
+        "content": {
+            "username": "EricBouchet",
+            "type": "thread",
+            "updated_at": "2014-02-03T08:17:57Z",
+            "children": [
+                {
+                    "username": "Virginiebio",
+                    "thread_id": "52ef50b5cfc81d7e4100090e",
+                    "created_at": "2014-02-03T21:59:33Z",
+                    "id": "52f011453c9f0ce003000a44",
+                    "body": "bonjour,\nC'est avec plaisir que je suivrais vos exp\u00e9riences et th\u00e9oriques \nbien cordialement ",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "123646",
+                    "children": []
+                }
+            ],
+            "user_id": "301008",
+            "comments_count": 1,
+            "body": "Bonjour, j'ai eu une exp\u00e9rience de Manager de cadres dans un groupe industriel, et recemment j'\u00e9tais patron d'une boulangerie, avec des ouvriers et des vendeuses.\nJe viens compl\u00e9ter mon exp\u00e9rience terrain avec des apports th\u00e9oriques et des cas vari\u00e9s.\nEric",
+            "id": "52ef50b5cfc81d7e4100090e",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef565b4b4451380f0008b2",
+        "content": {
+            "username": "edwigedk",
+            "type": "thread",
+            "updated_at": "2014-02-03T08:42:03Z",
+            "children": [
+                {
+                    "username": "EricBouchet",
+                    "thread_id": "52ef565b4b4451380f0008b2",
+                    "created_at": "2014-02-03T09:07:21Z",
+                    "id": "52ef5c49cfc81d7e41000918",
+                    "body": "On peut l'**apprendre**, m\u00eame si le poste pourra \u00eatre tr\u00e8s diff\u00e9rent d'une entreprise \u00e0 l'autre.",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "301008",
+                    "children": []
+                },
+                {
+                    "username": "LaurenceDidierjean",
+                    "thread_id": "52ef565b4b4451380f0008b2",
+                    "created_at": "2014-02-03T09:50:29Z",
+                    "id": "52ef6665919cec5e32000973",
+                    "body": "Tout le monde peut devenir un manager (et si possible, un bon ) !!!",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "277890",
+                    "children": []
+                },
+                {
+                    "username": "lminguet",
+                    "thread_id": "52ef565b4b4451380f0008b2",
+                    "created_at": "2014-02-03T13:06:17Z",
+                    "id": "52ef9449cfc81d7e4100098c",
+                    "body": "Reste \u00e0 savoir donner un sens \u00e0 ce que l'on fait.\nVoici une vid\u00e9o int\u00e9ressante de Simon Sinek qui parle de ce concept le \"golden circle\" : Start with Why http://www.youtube.com/watch?v=sioZd3AxmnE",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "237462",
+                    "children": []
+                }
+            ],
+            "user_id": "79036",
+            "comments_count": 3,
+            "body": "Je retiens que le manager peut jouer plusieurs r\u00f4les suivant le contexte",
+            "id": "52ef565b4b4451380f0008b2",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef57693c9f0ce0030008fe",
+        "content": {
+            "username": "FrancoisL44",
+            "type": "thread",
+            "updated_at": "2014-02-03T08:46:33Z",
+            "children": [
+                {
+                    "username": "Beldel",
+                    "thread_id": "52ef57693c9f0ce0030008fe",
+                    "created_at": "2014-02-03T14:34:43Z",
+                    "id": "52efa903344caaf903000202",
+                    "body": "bonjour,\nje suis dans le m\u00eame cas que vous, tr\u00e8s curieuse de ce MOOC, et j'ai aussi la volont\u00e9 de me lancer dans la formation en ind\u00e9pendant (sur Paris); votre exp\u00e9rience m'int\u00e9resserait...\ncdt\nbeldel",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "146990",
+                    "children": []
+                }
+            ],
+            "user_id": "233049",
+            "comments_count": 1,
+            "body": "Je m'appelle Fran\u00e7ois (46 ans) actuellement consultant formateur ind\u00e9pendant. Exp\u00e9riment\u00e9 en management, je suis tr\u00e8s curieux de cette nouvelle pratique de \"MOOC\".\nBas\u00e9 \u00e0 Nantes, je suis preneur d'\u00e9changes autour du th\u00e8me du management, du leadership.\nA bient\u00f4t sur le forum !!\n\nFran\u00e7ois\n\n\n",
+            "id": "52ef57693c9f0ce0030008fe",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef5c11be245c9d3900092f",
+        "content": {
+            "username": "cpolwin",
+            "type": "thread",
+            "updated_at": "2014-02-03T09:06:25Z",
+            "children": [
+                {
+                    "username": "remybigot",
+                    "thread_id": "52ef5c11be245c9d3900092f",
+                    "created_at": "2014-02-03T09:24:53Z",
+                    "id": "52ef60653c9f0ce003000906",
+                    "body": "Bienvenue C\u00e9line!",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "210654",
+                    "children": []
+                }
+            ],
+            "user_id": "34171",
+            "comments_count": 1,
+            "body": "Je suis ing\u00e9nieur en micro-\u00e9lectronique, \u00e0 l'origine ... Formateur en management et coach certifi\u00e9e ICF (Mozaik Paris - Master of Business Coaching) depuis 2009. J'interviens dans les entreprises sur les th\u00e9matiques du management, management de proximit\u00e9, management pour l'ing\u00e9nieur ... etc, et j'anime des modules sur le leadership. N'\u00e9tant pas issue d'une formation en sciences humaines, je suis int\u00e9ress\u00e9e par le fait de compl\u00e9ter ces modules, et d'y ajouter une dimension plus 'th\u00e9orique'.\n",
+            "id": "52ef5c11be245c9d3900092f",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef5c73cfc81d7e41000919",
+        "content": {
+            "username": "emmanuel",
+            "type": "thread",
+            "updated_at": "2014-02-03T09:08:03Z",
+            "children": [
+                {
+                    "username": "remybigot",
+                    "thread_id": "52ef5c73cfc81d7e41000919",
+                    "created_at": "2014-02-03T09:24:56Z",
+                    "id": "52ef606838bffc84380008e7",
+                    "body": "Bienvenue Emmanuel!",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "210654",
+                    "children": []
+                }
+            ],
+            "user_id": "12943",
+            "comments_count": 1,
+            "body": "Bonjour, Emmanuel 44 ans, responsable informatique  depuis maintenant 5 ans, je me suis inscrit \u00e0 cette formation pour apprendre  a mieux g\u00e9rer mon \u00e9quipe et \u00e9viter certains pi\u00e8ges.",
+            "id": "52ef5c73cfc81d7e41000919",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef5cb2d75e29d72b00098e",
+        "content": {
+            "username": "alexandrefronsacq",
+            "type": "thread",
+            "updated_at": "2014-02-03T09:09:06Z",
+            "children": [
+                {
+                    "username": "manu_basso",
+                    "thread_id": "52ef5cb2d75e29d72b00098e",
+                    "created_at": "2014-02-03T09:30:07Z",
+                    "id": "52ef619f275c2a0768000947",
+                    "body": "Ce premier cours pose pour moi les bases pour aborder le sujet sous tous ses aspects.\nEn effet, la question de la compr\u00e9hension entre Managers de g\u00e9n\u00e9ration soi-disant \"x\" et \"y\" et dans un futur proche \"z\" c'est un d\u00e9bat qui m'int\u00e9resse particuli\u00e8rement.\nDans l'histoire de Martine, par exemple, je pense que la difficult\u00e9 se pose entre une demande peut-\u00eatre d\u00e9mesur\u00e9e d'Isabelle d'\u00e9voluer trop rapidement et une incompr\u00e9hension qui provoque un bloquage de l apart de Martine. Cette derni\u00e8re aurait pu en effet \u00eatre accompagn\u00e9e d'une personne des RH et anticiper les demandes d'Isabelle, de fa\u00e7on \u00e0 pouvoir proposer une \u00e9volution graduelle et logique du poste selon les disponibilit\u00e9s de l'agence. Qu'est-ce que vous en pensez?\nMerci beaucoup,\nManuela",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "167702",
+                    "children": [
+                        {
+                            "username": "amiela",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T09:42:43Z",
+                            "id": "52ef64935e3e190135000801",
+                            "body": "Ce premier cours d\u00e9montre qu'un bon manager d\u00e9pend du contexte et a sa capacit\u00e9 d'optimiser ses ressources et ses atouts face a un environnement complexe. La capacit\u00e9 de g\u00e9rer ses \u00e9motions est pour moi le plus grand d\u00e9fi du manager. Martine surestime ses exp\u00e9riences, alors que Isabelle, avec des ambitions, surestime sa formation.",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "92968",
+                            "children": []
+                        },
+                        {
+                            "username": "David-Rosse",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T09:51:22Z",
+                            "id": "52ef669a327311bc40000754",
+                            "body": "Il est vrai qu'\u00e9norm\u00e9ment de jeunes dipl\u00f4m\u00e9s souhaitent \u00e9voluer tr\u00e8s rapidement car le contenu de leur formation leur \"vends\" une ascension hi\u00e9rarchique tr\u00e8s rapide. Il y a l\u00e0, je pense, un ph\u00e9nom\u00e8ne r\u00e9cent et int\u00e9ressant de formations \"sur-dipl\u00f4mantes\" qui sont n\u00e9cessaires pour l'apprentissage des bases d'un secteur et d'un m\u00e9tier. Cependant les anciennes g\u00e9n\u00e9rations de managers qui ont parfois appris sur le tas, le travail de management des hommes, (quelquefois sans dipl\u00f4mes, ce qui n'enl\u00e8ve rien \u00e0 leur comp\u00e9tence. Ils peuvent suivre des formations par exemple) trouvent que les jeunes qui veulent prendre leur place un peu trop rapidement devrait freiner leurs \u00e9lan sans pour autant rogner sur leurs ambitions.",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "26596",
+                            "children": []
+                        },
+                        {
+                            "username": "Virginiemayo",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T10:23:05Z",
+                            "id": "52ef6e094b4451380f0008cf",
+                            "body": "Cela pose en effet le probl\u00e8me de la l\u00e9gitimit\u00e9 du manager. Peut-on devenir un manager reconnu avec peu d'exp\u00e9rience de l'entreprise, du terrain ? Est-ce que cette nouvelle g\u00e9n\u00e9ration peut en effet \u00e9voluer plus rapidement dans des fonctions manageriales que la g\u00e9n\u00e9ration pr\u00e9c\u00e9dente qui, le plus souvent, devait suivre un parcours tr\u00e8s jalonn\u00e9, dipl\u00f4m\u00e9e ou non ? ",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "282792",
+                            "children": []
+                        },
+                        {
+                            "username": "gm45",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T13:47:39Z",
+                            "id": "52ef9dfbab137b007200083d",
+                            "body": "Cela d\u00e9pend de l'entreprise et des perspectives d'\u00e9volution interne. Ce n'est en mon sens pas une question de g\u00e9n\u00e9ration mais bien de volont\u00e9 et des comp\u00e9tences de chacun. ",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "279567",
+                            "children": []
+                        },
+                        {
+                            "username": "EvelyneBLANCKE",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T16:52:35Z",
+                            "id": "52efc953344caaf903000247",
+                            "body": "Alexandre, tu parles d'\u00e9quipe multiculturelles.\n\nl\u00e0 je ne vois pas ce que tu veux dire.\nY a t'il une diff\u00e9rence si la personne est :\nun homme ou une femme\nque sa peau soit blanche, noir, caf\u00e9 au lait ou jaune \nque les religions soient diff\u00e9rentes\n\nC'est une \u00e9quipe et ces diff\u00e9rences ne doivent pas exister.\nTout le monde est la pour travailler dans l'\u00e9quipe. Chacun a sa part \u00e0 faire.\nNous sommes en 2014 quand m\u00eame !!!\n\nJe suis fran\u00e7aise, blanche, mais que mon coll\u00e8gue soit diff\u00e9rent dans le travail qu'elle importance tant qu'il fait son travail et ne nuis pas aux autres.\n\nVoil\u00e0 une r\u00e9action de votre part qui peut porter conflit si vous \u00eates manager et avez des pr\u00e9f\u00e9rences.\n\nl'objectif est ce que le manager doit voir pour chacun.\n\nMaintenant, ce n'est peut \u00eatre pas ce que vous vouliez dire ?\n",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "307260",
+                            "children": []
+                        },
+                        {
+                            "username": "krobtou",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T20:44:43Z",
+                            "id": "52efffbb275c2a0768000a56",
+                            "body": "Evelyne, Alexandre parle de multi culture, et non de multi ethnie ni de diff\u00e9rence de genre. La culture est ce qui est commun \u00e0 un groupe. Des danseurs classique auront une culture musicale diff\u00e9rente qu'un groupe de jeune rappeur. Un groupe multiculturel aura donc des centres d'int\u00e9r\u00eat et des motivations diff\u00e9rentes les uns des autres. Le manager doit en prendre compte pour ne pas perdre la solidit\u00e9 de son \u00e9quipe.",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "343071",
+                            "children": []
+                        },
+                        {
+                            "username": "LeilaHM3",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-05T23:07:14Z",
+                            "id": "52f2c4224ea6bfe52e000cad",
+                            "body": "Evelyne, je partage la pens\u00e9e de krobtou. Je suis d'origine asiatique, travaillant au s\u00e9n\u00e9gal avec des fran\u00e7ais expatri\u00e9s, des libanais et diff\u00e9rentes ethnies locales plus quelques autres nationalit\u00e9s africaines. Chacun sa culture (et pas sa nationalit\u00e9 ou sa religion), et il faut tenir compte de cette multi culturalit\u00e9 lors d'animation de r\u00e9unions en particulier sur les d\u00e9finitions de mots, les exemples historiques, les proverbes, etc.",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "280887",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "username": "DPS",
+                    "thread_id": "52ef5cb2d75e29d72b00098e",
+                    "created_at": "2014-02-03T10:06:02Z",
+                    "id": "52ef6a0a327311bc4000075b",
+                    "body": "Dans le cadre de la gestion des parcours professionnel, il me semble que questionner ses collaborateurs sur leurs motivations \u00e0 prendre un poste (Isabelle vers poste de management d'agence)et sur ce qu'ils connaissent (r\u00e9ellement) du poste vis\u00e9 est une bonne approche. Tr\u00e8s souvent, le collaborateur a une vue tr\u00e8s partielle du poste et de ses atouts et faiblesses pour tenir le poste \u00e0 MT et LT. Un constat fr\u00e9quemment \u00e9tabli est que dans le cadre de promotion, les entreprises perdent de tr\u00e8s bons professionnels en les nommant Manager sans accompagnement ni formation. Au final, perte d'un bon professionnel et gain d'un manager \"m\u00e9diocre\".",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "301311",
+                    "children": [
+                        {
+                            "username": "EvelyneBLANCKE",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T17:00:02Z",
+                            "id": "52efcb12b4907d2e23000a4a",
+                            "body": "oui, je suis d'accord avec toi DPS.\n\nIsabelle est une personne motiv\u00e9e, qui a envie d'apprendre, de progresser.\nLors de sa demande, il aurait fallu lui proposer de lui donner un peu de travail qui conscerne la place de manager, lui expliquer ce qu'elle ne comprend pas et apr\u00e8s quelques semaines, le manager peut savoir si elle est apte ou non \u00e0 avoir une \u00e9quipe en dessous d'elle. \n\nLorsqu'elle prendra sa place de manager, Isabelle saura faire correctement le travail qu'on lui aura appris. \n\nSinon, diplomatiquement, il faut lui conseiller d'attendre encore quelques mois en partageant plus de responsabilit\u00e9s un peu \u00e0 la fois afin que l'\u00e9quipe reste forte et excellente et ne tombe pas \u00e0 rien.\n",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "307260",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "username": "BARON",
+                    "thread_id": "52ef5cb2d75e29d72b00098e",
+                    "created_at": "2014-02-03T10:52:45Z",
+                    "id": "52ef74fde0134f452c00091c",
+                    "body": "en regardant le mooc j'ai tout de suite cherch\u00e9 \u00e0 classer mon propre manager que j'ai besoin d'admirer de respecter et d'aider dans les charges qui lui sont impos\u00e9es . \npour ce faire je suis sensible \u00e0 sa loyaut\u00e9, son exemplarit\u00e9 . lesquelles me permettent de faire un trait sur les faiblesses qui se d\u00e9tacheront de son management car ces points essentiels auront \u00e9t\u00e9 assur\u00e9s. Un point que j'ai encore du mal \u00e0 accepter serait l'injustice entre les collaborateurs, d\u00e9loyaut\u00e9 vis \u00e0 vis de sa hi\u00e9rarchie. je ne peux accepter que mon patron casse du sucre sur la direction g\u00e9n\u00e9rale cela impacte directement la qualit\u00e9 de mon travail. \n",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "50662",
+                    "children": [
+                        {
+                            "username": "EvelyneBLANCKE",
+                            "thread_id": "52ef5cb2d75e29d72b00098e",
+                            "created_at": "2014-02-03T17:01:55Z",
+                            "id": "52efcb83cfc81d7e410009ea",
+                            "body": "BRAVO, tu vas j'en suis certaine devenir un ou une bonne manager.\n\nUn bon manager doit savoir passer au dessus des obstacles sans s'effondrer aussi.\n\nSinon, tu as dit le principal.\n",
+                            "course_id": "CNAM/01002/Trimestre_1_2014",
+                            "type": "comment",
+                            "depth": 1,
+                            "user_id": "307260",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "username": "ASGinet",
+                    "thread_id": "52ef5cb2d75e29d72b00098e",
+                    "created_at": "2014-02-03T21:20:43Z",
+                    "id": "52f0082b572da4e90300062a",
+                    "body": "Un bon manager doit effectivement \u00eatre \u00e0 l'\u00e9coute de son \u00e9quipe, savoir apporter les r\u00e9ponses ad\u00e9quates sans qu'elles soient forc\u00e9ment imm\u00e9diates, tout en gardant de la constance dans ses prises de d\u00e9cision. Cela lui apportera le respect n\u00e9cessaire \u00e0 sa fonction. ",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "106738",
+                    "children": []
+                }
+            ],
+            "user_id": "211764",
+            "comments_count": 13,
+            "body": "Ce premier cours permet de poser clairement, et simplement, les questions qui se posent, me semble-t-il \u00e0 toute personne qui a eu \u00e0 manager des \u00e9quipes.\nCes questions sont d'autant plus difficiles que les \u00e9quipes sont h\u00e9t\u00e9rog\u00e8nes et multiculturelles.\nJ'esp\u00e8re d'ailleurs que le management d'\u00e9quipe multiculturelles sera abord\u00e9.",
+            "id": "52ef5cb2d75e29d72b00098e",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    },
+    {
+        "_id": "52ef5cf7919cec5e3200095d",
+        "content": {
+            "username": "remybigot",
+            "type": "thread",
+            "updated_at": "2014-02-03T09:10:15Z",
+            "children": [
+                {
+                    "username": "remybigot",
+                    "thread_id": "52ef5cf7919cec5e3200095d",
+                    "created_at": "2014-02-03T09:27:03Z",
+                    "id": "52ef60e7ab137b00720007e2",
+                    "body": "Et vous au fait ?\nPourquoi suivez-vous ce MOOC ?",
+                    "course_id": "CNAM/01002/Trimestre_1_2014",
+                    "type": "comment",
+                    "depth": 0,
+                    "user_id": "210654",
+                    "children": []
+                }
+            ],
+            "user_id": "210654",
+            "comments_count": 1,
+            "body": "Bonjour \u00e0 tous !\n\nJe suis ici car j'ai besoin d'apprendre en permanence, et que ma petite entreprise devrait grandir sous peu.\nPour \u00eatre bon, je vais donc devoir m\u2019entra\u00eener et apprendre les pratiques des bons leaders.\n\nJe ne veux surtout pas \u00eatre comme nombre de mauvais managers que j'ai eu la \"chance\" de rencontrer dans ma vie de salari\u00e9....\n\nRetrouvez mes [activit\u00e9s ici][1] et mon blog sur [l\u2019entrepreneuriat l\u00e0][2] !\nA tr\u00e8s vite !\n\nR\u00e9my Bigot\n\n\n  [1]: http://www.msb.li\n  [2]: http://www.montersonbusiness.com",
+            "id": "52ef5cf7919cec5e3200095d",
+            "course_id": "CNAM/01002/Trimestre_1_2014"
+        }
+    }
+]
